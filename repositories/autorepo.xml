@@ -7,7 +7,7 @@
 	<repository>http://mdmplugins.googlecode.com/svn/trunk/repo.xml</repository>
 	<repository>http://squeezecenter-seeqpod.googlecode.com/svn/trunk/repodata.xml</repository>
 	<repository>http://www.koldware.com/SlimStuff/repodata.xml</repository>
-	<repository>http://erlandplugins.googlecode.com/svn/repository/trunk/latest.xml</repository>
+	<repository>http://erland.github.io/squeezebox-downloads/repositories/latest.xml</repository>
 	<repository>http://www.herger.net/slim-plugins/repo.xml</repository>
 	<repository>http://kdfplugins.googlecode.com/svn/trunk/repo.xml</repository>
 	<repository>http://alienbbc.googlecode.com/svn/trunk/repo.xml</repository>
