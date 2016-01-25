@@ -39,28 +39,26 @@
                         <sha>e5d27db8cd6ffb3407d68aed7997a39b22c3287d</sha>
                         <link>http://erland.isaksson.info</link>
                 </applet>
-		<applet name="CustomClock" version="2.10.3938" minTarget="7.4" maxTarget="*">
+		<applet name="CustomClock" version="2.11.139" minTarget="7.4" maxTarget="*">
                         <title lang="EN">Custom Clock</title>
                         <desc lang="EN">A screensaver for Squeezebox Controller/Touch/Radio devices that shows a clock. It is possible to select among a number of different styles and you can configure what kind of date/time information you like to show.</desc>
-                        <changes lang="EN">- Corrected bug when using ALBUMARTIST title format
-			- Corrected bug causing custom title format to not be displayed when Custom Clock screen saver is initially activated
+                        <changes lang="EN">- Changed due to Google shutting down Google Code service
                         </changes>
                         <creator>Erland Isaksson</creator>
                         <email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customclock&amp;filename=CustomClock-2.10.3938.zip</url>
-                        <sha>e7e07090666ff5e208f0538ba986c4f67aaadf3e</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customclock&amp;filename=CustomClock-2.11.139.zip</url>
+                        <sha>46bff52b3198edb6ea9b229ba80cd0c96d1a38e6</sha>
                         <link>http://erland.isaksson.info</link>
                 </applet>
-                <applet name="PatchInstaller" version="1.1.55" minTarget="7.5" maxTarget="*">
+                <applet name="PatchInstaller" version="1.2.36" minTarget="7.5" maxTarget="*">
                         <title lang="EN">Patch Installer</title>
                         <desc lang="EN">Easy installation of third party patches on Radio/Touch/Controller firmware.</desc>
-                        <changes lang="EN">- Removed recommended concept
-                        - Added information about creators
+                        <changes lang="EN">- Changed due to Google shutting down Google Code service
                         </changes>
                         <creator>Erland Isaksson</creator>
                         <email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-patchinstaller&amp;filename=PatchInstaller-1.1.55.zip</url>
-                        <sha>f42a97a2e188cee31315981c4c2a54c509c7f64e</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-patchinstaller&amp;filename=PatchInstaller-1.2.36.zip</url>
+                        <sha>7fd692b41fc201e92aba0e8e58f8c7c5752edf78</sha>
                         <link>http://erland.isaksson.info</link>
                 </applet>
                 <applet name="ScreenSwitcher" version="1.1.3818" minTarget="7.4" maxTarget="*">
@@ -396,15 +394,15 @@
                         <sha>26d0aeb1f77bf5e893ec7a535832eee0791db70b</sha>
                         <link>http://wiki.slimdevices.com/index.php/Playlist_Generator_plugin</link>
                 </plugin>
-		<plugin name="CustomClockHelper" version="2.9.3917" minTarget="7.4.0" maxTarget="7.*">
+		<plugin name="CustomClockHelper" version="2.10.90" minTarget="7.4.0" maxTarget="7.*">
                         <title lang="EN">Custom Clock Helper</title>
                         <desc lang="EN">This is a helper plugin for the Custom Clock screen saver applet, it makes it possible to create your own clock styles and modify the existing styles (Controller, Radio, Touch, SqueezePlay)</desc>
-			<changes lang="EN">- Updated to work with Perl 5.18
+			<changes lang="EN">- Changed due to Google shutting down Google Code service
 			</changes>
                         <creator>Erland Isaksson</creator>
                         <email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customclockhelper&amp;filename=CustomClockHelper-2.9.3917.zip</url>
-                        <sha>220f403f8d900f29ef4d8c27b419cc61b710534d</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customclockhelper&amp;filename=CustomClockHelper-2.10.90.zip</url>
+                        <sha>df86eec8fe3aea8bb826078a54a9bb2defe533c3</sha>
                         <link>http://wiki.slimdevices.com/index.php/Custom_Clock_applet</link>
                 </plugin>
 		<plugin name="SongInfo" version="1.1.3883" minTarget="7.4.0" maxTarget="*">
@@ -429,15 +427,15 @@
                         <sha>e95b571c9d4cdcbb93c0d3caddc395df4ec925b0</sha>
                         <link>http://erland.isaksson.info</link>
                 </plugin>
-                <plugin name="LicenseManagerPlugin" version="1.0.3827" minTarget="7.4.0" maxTarget="*">
+                <plugin name="LicenseManagerPlugin" version="1.1.40" minTarget="7.4.0" maxTarget="*">
                         <title lang="EN">License Manager</title>
                         <desc lang="EN">A plugin that's required for licensed plugins to work, it will give you an overview of licensed plugins available and their current licensing status and links to pay for them. (Boom, Transporter, Classic, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
-                        <changes lang="EN">- Corrected generation of account identity when space has been entered before or after mysqueezebox.com account name
+                        <changes lang="EN">- Changed due to Google shutting down Google Code
                         </changes>
                         <creator>Erland Isaksson</creator>
                         <email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-licensemanagerplugin&amp;filename=LicenseManagerPlugin-1.0.3827.zip</url>
-                        <sha>4274be85fd3a8896a49fa80b557c8933e20525bc</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-licensemanagerplugin&amp;filename=LicenseManagerPlugin-1.1.40.zip</url>
+                        <sha>565bbd11d6f72fc0990b234c7e3f37d73a129eb5</sha>
                         <link>http://erland.isaksson.info</link>
                 </plugin>
 		<plugin name="HideMenus" version="1.0.3604" minTarget="7.6.0" maxTarget="7.*">
