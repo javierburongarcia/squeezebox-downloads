@@ -394,15 +394,15 @@
                         <sha>26d0aeb1f77bf5e893ec7a535832eee0791db70b</sha>
                         <link>http://wiki.slimdevices.com/index.php/Playlist_Generator_plugin</link>
                 </plugin>
-		<plugin name="CustomClockHelper" version="2.10.90" minTarget="7.4.0" maxTarget="7.*">
+		<plugin name="CustomClockHelper" version="2.10.92" minTarget="7.4.0" maxTarget="7.*">
                         <title lang="EN">Custom Clock Helper</title>
                         <desc lang="EN">This is a helper plugin for the Custom Clock screen saver applet, it makes it possible to create your own clock styles and modify the existing styles (Controller, Radio, Touch, SqueezePlay)</desc>
-			<changes lang="EN">- Changed due to Google shutting down Google Code service
+			<changes lang="EN">- Added support for jivelite styles by tcutting, thanks for patch
 			</changes>
                         <creator>Erland Isaksson</creator>
                         <email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customclockhelper&amp;filename=CustomClockHelper-2.10.90.zip</url>
-                        <sha>df86eec8fe3aea8bb826078a54a9bb2defe533c3</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customclockhelper&amp;filename=CustomClockHelper-2.10.92.zip</url>
+                        <sha>60dc9c3be71a5b521c77ce70020c1092d2a2361b</sha>
                         <link>http://wiki.slimdevices.com/index.php/Custom_Clock_applet</link>
                 </plugin>
 		<plugin name="SongInfo" version="1.1.3883" minTarget="7.4.0" maxTarget="*">
