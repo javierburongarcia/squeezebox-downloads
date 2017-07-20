@@ -5,16 +5,16 @@
 		<title lang="EN">Erland's plugins and applets</title>
 	</details>
         <applets>
-                <applet name="AlbumFlow" version="1.1.3728" minTarget="7.4" maxTarget="*">
+                <applet name="AlbumFlow" version="1.2.24" minTarget="7.4" maxTarget="*">
                         <title lang="EN">Album Flow</title>
                         <desc lang="EN">Browse your albums with a scrolling cover art view similar to the Cover Flow view on Mac and iPod. It can also act as a screensaver scrolling through all albums in your library.
 			</desc>
-                        <changes lang="EN">- Corrected crash when connected to mysqueezebox.com
+                        <changes lang="EN">- Available for free, no longer requires a license
                         </changes>
                         <creator>Erland Isaksson</creator>
                         <email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-albumflow&amp;filename=AlbumFlow-1.1.3728.zip</url>
-                        <sha>e3bd58f363b07a74854847394dc0df8d075909f2</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-albumflow&amp;filename=AlbumFlow-1.2.24.zip</url>
+                        <sha>5dee58ece394484b013d5e7e1f744f19d838528d</sha>
                         <link>http://erland.isaksson.info</link>
                 </applet>
                 <applet name="InformationScreen" version="1.0" minTarget="7.4" maxTarget="*">
@@ -39,15 +39,15 @@
                         <sha>e5d27db8cd6ffb3407d68aed7997a39b22c3287d</sha>
                         <link>http://erland.isaksson.info</link>
                 </applet>
-		<applet name="CustomClock" version="2.11.139" minTarget="7.4" maxTarget="*">
+		<applet name="CustomClock" version="2.12.140" minTarget="7.4" maxTarget="*">
                         <title lang="EN">Custom Clock</title>
                         <desc lang="EN">A screensaver for Squeezebox Controller/Touch/Radio devices that shows a clock. It is possible to select among a number of different styles and you can configure what kind of date/time information you like to show.</desc>
-                        <changes lang="EN">- Changed due to Google shutting down Google Code service
+                        <changes lang="EN">- Available for free, no longer requires a license
                         </changes>
                         <creator>Erland Isaksson</creator>
                         <email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customclock&amp;filename=CustomClock-2.11.139.zip</url>
-                        <sha>46bff52b3198edb6ea9b229ba80cd0c96d1a38e6</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customclock&amp;filename=CustomClock-2.12.140.zip</url>
+                        <sha>226becb58ed993c358e971395e1e9a14c4056041</sha>
                         <link>http://erland.isaksson.info</link>
                 </applet>
                 <applet name="PatchInstaller" version="1.2.36" minTarget="7.5" maxTarget="*">
@@ -61,16 +61,16 @@
                         <sha>7fd692b41fc201e92aba0e8e58f8c7c5752edf78</sha>
                         <link>http://erland.isaksson.info</link>
                 </applet>
-                <applet name="ScreenSwitcher" version="1.1.3818" minTarget="7.4" maxTarget="*">
+                <applet name="ScreenSwitcher" version="1.2.13" minTarget="7.4" maxTarget="*">
                         <title lang="EN">Screen Switcher</title>
                         <desc lang="EN">Switch continuously between different screen savers.
                         </desc>
-                        <changes lang="EN">- Corrected issue where a log message was produced when switching from a Custom Clock screen saver
+                        <changes lang="EN">- Available for free, no longer requires a license
 			</changes>
                         <creator>Erland Isaksson</creator>
                         <email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-screenswitcher&amp;filename=ScreenSwitcher-1.1.3818.zip</url>
-                        <sha>d542412ac8d4d9a245d73d59ef4027ab5307e3c5</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-screenswitcher&amp;filename=ScreenSwitcher-1.2.13.zip</url>
+                        <sha>95693db01bcc9030151c8d15b42b97cb790f7328</sha>
                         <link>http://erland.isaksson.info</link>
                 </applet>
                 <applet name="SettingsRemover" target="jive|fab4|baby" version="1.0.30" minTarget="7.4" maxTarget="*">
@@ -154,15 +154,15 @@
 			<sha>436fcda65d80ce98c3234978b07cc9c24b429aaa</sha>
 			<link>http://wiki.slimdevices.com/index.php/TrackStat_plugin</link>
 		</plugin>
-                <plugin name="TrackStat" version="3.2.3951" minTarget="7.6.0" maxTarget="7.*">
+                <plugin name="TrackStat" version="3.3.602" minTarget="7.6.0" maxTarget="7.*">
                         <title lang="EN">TrackStat</title>
                         <desc lang="EN">Store statistics such as rating, last played time and play counts so it survives a rescan and allows to to browse your library based on the statistic information. You can set the ratings via the Squeezebox player, CLI, Squeezebox Controller or web interface, ratings and statistic data can also be imported/exported from/to iTunes, Amarok and MusicIP Mixer. It also supports Dynamic Playlist plugin by adding dynamic playlists for all its statistics. Please note that TrackStat needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
-                        <changes lang="EN">- Corrected so setting rating via iPeng context menus works again
+                        <changes lang="EN">- Available for free, no longer requires a license
                         </changes>
                         <creator>Erland Isaksson</creator>
                         <email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-3.2.3951.zip</url>
-                        <sha>f18ee2a0227206c6948bcdc9f0c22d9707417a0d</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-trackstat&amp;filename=TrackStat-3.3.602.zip</url>
+                        <sha>4ea036c7853d540c01589be8de7755b515ab42e9</sha>
                         <link>http://wiki.slimdevices.com/index.php/TrackStat_plugin</link>
                 </plugin>
 		<plugin name="CustomBrowse" version="2.8" minTarget="7.1.0" maxTarget="7.3.*">
@@ -181,15 +181,16 @@
                         <sha>7c67dc318c68d4b925d4d4fb5457297edc9d9e75</sha>
                         <link>http://wiki.slimdevices.com/index.php/Custom_Browse_plugin</link>
                 </plugin>
-		<plugin name="CustomBrowse" version="2.14.3936" minTarget="7.4.0" maxTarget="7.*">
+		<plugin name="CustomBrowse" version="2.15.676" minTarget="7.4.0" maxTarget="7.*">
                         <title lang="EN">Custom Browse</title>
                         <desc lang="EN">Makes it possible to customize the structure, contents and sorting of the browse menus on the Squeezebox. A new browse menu is configured as a xml file containing the structure and SQL-statements. Please note that Custom Browse needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
-			<changes lang="EN">- Adjusted SQL a bit in menu templates Artists, Bands, Composers, Conductors and Filtered Artists to improve performance of listing tracks for an album in large libraries
+			<changes lang="EN">- Available for free, no longer requires a license
+			- Compatible with LMS 7.9
 			</changes>
 			<creator>Erland Isaksson</creator>
 			<email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-custombrowse&amp;filename=CustomBrowse-2.14.3936.zip</url>
-                        <sha>607209a7453449c244fc509e18b3242e7d814d5e</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-custombrowse&amp;filename=CustomBrowse-2.15.676.zip</url>
+                        <sha>209f65c1fac52a5abac98bd17b04c54c3132f4dc</sha>
                         <link>http://wiki.slimdevices.com/index.php/Custom_Browse_plugin</link>
                 </plugin>
 		<plugin name="CustomScan" version="2.6" minTarget="7.1.0" maxTarget="7.3.*">
@@ -207,15 +208,16 @@
                         <sha>60e51583f832ebe6515f5481363b97cb51153785</sha>
                         <link>http://wiki.slimdevices.com/index.php/Custom_Scan_plugin</link>
                 </plugin>
-		<plugin name="CustomScan" version="2.9.3901" minTarget="7.4.0" maxTarget="7.*">
+		<plugin name="CustomScan" version="2.10.51" minTarget="7.4.0" maxTarget="7.*">
                         <title lang="EN">Custom Scan</title>
                         <desc lang="EN">Make it easier to develop modules that retreive additional information about artist, album, tracks from somehere. If used together with Custom Browse plugin, the included scanning modules for LastFM and custom tags makes it possible to browse music by LastFM tags or by a custom tag. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
-			<changes lang="EN">- Added option to select reverse sort order on menu levels based on Mixed Tag menus, the intention is to be able to sort year levels in reverse order
+			<changes lang="EN">- Available for free, no longer requires a license
+			- Compatible with LMS 7.9
 			</changes>
 			<creator>Erland Isaksson</creator>
 			<email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customscan&amp;filename=CustomScan-2.9.3901.zip</url>
-                        <sha>533d0c65ce7ef8aeebd30bf14d1c290530b509b7</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customscan&amp;filename=CustomScan-2.10.51.zip</url>
+                        <sha>9eaca05d640f42d5843f54a8280c8e1a5e85eac6</sha>
                         <link>http://wiki.slimdevices.com/index.php/Custom_Scan_plugin</link>
                 </plugin>
 		<plugin name="CustomSkip" version="2.3.5" minTarget="7.1.0" maxTarget="7.3.*">
@@ -228,15 +230,15 @@
                         <sha>bebd6cad35a0e74ece1c3c9bf4040800bcad75e8</sha>
                         <link>http://wiki.slimdevices.com/index.php/Custom_Skip_plugin</link>
                 </plugin>
-		<plugin name="CustomSkip" version="2.4.3827" minTarget="7.4.0" maxTarget="7.*">
+		<plugin name="CustomSkip" version="2.5.83" minTarget="7.4.0" maxTarget="7.*">
                         <title lang="EN">Custom Skip</title>
                         <desc lang="EN">Makes it possible to skip tracks automatically in dynamic playlists. Makes it possible to skip tracks with low ratings, zapped tracks, short tracks and much more. (Boom, Transporter, Classic, Receiver, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
-                        <changes lang="EN">- Corrected invalid link when creating a new filter item
+                        <changes lang="EN">- Available for free, no longer requires a license
 			</changes>
                         <creator>Erland Isaksson</creator>
                         <email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customskip&amp;filename=CustomSkip-2.4.3827.zip</url>
-                        <sha>c574c4ad2ce17009d66223bacf99966ee8504075</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customskip&amp;filename=CustomSkip-2.5.83.zip</url>
+                        <sha>d78f922da552d56e7a0f04ae603de01b76e68d18</sha>
                         <link>http://wiki.slimdevices.com/index.php/Custom_Skip_plugin</link>
 		</plugin>
 		<plugin name="DynamicPlayList" version="2.7" minTarget="7.2.0" maxTarget="7.3.*">
@@ -250,15 +252,15 @@
                         <sha>087471a37a44bfe6b2542b00ec4929581f8679ff</sha>
                         <link>http://wiki.slimdevices.com/index.php/Dynamic_Playlist_plugin</link>
                 </plugin>
-		<plugin name="DynamicPlayList" version="2.9.3853" minTarget="7.4.0" maxTarget="7.*">
+		<plugin name="DynamicPlayList" version="2.10.247" minTarget="7.4.0" maxTarget="7.*">
                         <title lang="EN">Dynamic Playlist</title>
                         <desc lang="EN">Make it easy to create dynamic playlists for your own plugin. You simply need to implement two methods in your own plugin which returns the playlists and the next tracks. Currently at least supported by SQL Playlist plugin, TrackStat plugin, SugarCube plugin, iTunes Party Shuffle plugins and builtin support for saved static playlists. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
-			<changes lang="EN">- Corrected issue where plalists with parameter didn't work in Squeeze Commander
+			<changes lang="EN">- Available for free, no longer requires a license
 			</changes>
 			<creator>Erland Isaksson</creator>
 			<email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-dynamicplaylist&amp;filename=DynamicPlayList-2.9.3853.zip</url>
-                        <sha>edf4fddf7c4d7c0ab46529b25905572fba5a8ccf</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-dynamicplaylist&amp;filename=DynamicPlayList-2.10.247.zip</url>
+                        <sha>0c8b9a0728a09dca35efe51e87a5a8f773236545</sha>
                         <link>http://wiki.slimdevices.com/index.php/Dynamic_Playlist_plugin</link>
                 </plugin>
 		<plugin name="DatabaseQuery" version="2.1.2" minTarget="7.1.0" maxTarget="7.3.*">
@@ -295,15 +297,15 @@
                         <sha>4c18394463689af4a2ac9c68f77eb471274dc7ae</sha>
                         <link>http://wiki.slimdevices.com/index.php/Multi_Library_plugin</link>
                 </plugin>
-		<plugin name="MultiLibrary" version="2.7.3947" minTarget="7.4.0" maxTarget="7.*">
+		<plugin name="MultiLibrary" version="2.8.168" minTarget="7.4.0" maxTarget="7.*">
                         <title lang="EN">Multi Library</title>
                         <desc lang="EN">Makes it possible to divide your SqueezeCenter library into different sub libraries, requires Custom Browse plugin to be able to browse the sub libraries. Please note that Multi Library needs a bit more resources than small plugins and might also slow down startup of SqueezeCenter a bit, so you might get problems if you are running SqueezeCenter on slow hardware. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
-			<changes lang="EN">- Corrected so some database is locked errors are avoided while scanning is in progress
+			<changes lang="EN">- Available for free, no longer requires a license
 			</changes>
 			<creator>Erland Isaksson</creator>
 			<email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-multilibrary&amp;filename=MultiLibrary-2.7.3947.zip</url>
-                        <sha>bae501051db92a82256404dfeff15de75a5bf803</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-multilibrary&amp;filename=MultiLibrary-2.8.168.zip</url>
+                        <sha>d3ba9b0c40ca7893719939a3703425736759ab2d</sha>
                         <link>http://wiki.slimdevices.com/index.php/Multi_Library_plugin</link>
                 </plugin>
 		<plugin name="SQLPlayList" version="2.4" minTarget="7.1.0" maxTarget="7.3.*">
@@ -319,15 +321,16 @@
                         <sha>78736678bb157d1d8b15a2c080173e845f2f2a55</sha>
                         <link>http://wiki.slimdevices.com/index.php/SQL_Playlist_plugin</link>
                 </plugin>
-		<plugin name="SQLPlayList" version="2.5.3859" minTarget="7.4.0" maxTarget="7.*">
+		<plugin name="SQLPlayList" version="2.6.272" minTarget="7.4.0" maxTarget="7.*">
                         <title lang="EN">SQL Playlist</title>
                         <desc lang="EN">Creates smart playlists based on SQL queries, its possible to create playlists similar to iTunes smart playlists if used together with ratings set with the TrackStat plugin. It requires Dynamic Playlist plugin. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
-			<changes lang="EN">- Added option to play least played tracks first in playlist template: Random playlist songs
+			<changes lang="EN">- Available for free, no longer requires a license
+			- Compatible with LMS 7.9
 			</changes>
 			<creator>Erland Isaksson</creator>
 			<email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-sqlplaylist&amp;filename=SQLPlayList-2.5.3859.zip</url>
-                        <sha>d01dba16d24745121992e0f2547f0f0aba0ac647</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-sqlplaylist&amp;filename=SQLPlayList-2.6.272.zip</url>
+                        <sha>33b402200260f4111d37235484e5d54fdbec7ae8</sha>
                         <link>http://wiki.slimdevices.com/index.php/SQL_Playlist_plugin</link>
                 </plugin>
 		<plugin name="TitleSwitcher" version="1.1.3" minTarget="7.1.0" maxTarget="7.3.*">
@@ -340,16 +343,15 @@
                         <sha>d25140b9bf9038bea7c6e4728e84f6d81f5c0b59</sha>
                         <link>http://wiki.slimdevices.com/index.php/Title_Switcher_plugin</link>
                 </plugin>
-                <plugin name="TitleSwitcher" version="1.2.3688" minTarget="7.4.0" maxTarget="*">
+                <plugin name="TitleSwitcher" version="1.3.23" minTarget="7.4.0" maxTarget="*">
                         <title lang="EN">Title Switcher</title>
                         <desc lang="EN">Makes it possible to get text information on the player screen that switches between different kind of information, for example showing artist 5 seconds and album name 5 seconds. The plugin requires that the Music Information Screen(MusicInfoSCR) plugin is installed. (Boom, Transporter, Classic, SoftSqueeze)</desc>
-                        <changes lang="EN">- Corrected so it's less sensitive to space characters in configuration
-			- Added some more debug messages to make troubleshoting easier
+                        <changes lang="EN">- Available for free, no longer requires a license
 			</changes>
                         <creator>Erland Isaksson</creator>
                         <email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-titleswitcher&amp;filename=TitleSwitcher-1.2.3688.zip</url>
-                        <sha>af005df261cff3a4af8ceed79044f145e3d2ebcb</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-titleswitcher&amp;filename=TitleSwitcher-1.3.23.zip</url>
+                        <sha>b593f6fec7c033762eec50381361f7369c96ac35</sha>
                         <link>http://wiki.slimdevices.com/index.php/Title_Switcher_plugin</link>
                 </plugin>
                 <plugin name="TrackStatPlaylist" version="1.0.1" minTarget="7.1.0" maxTarget="7.3.*">
@@ -394,15 +396,15 @@
                         <sha>26d0aeb1f77bf5e893ec7a535832eee0791db70b</sha>
                         <link>http://wiki.slimdevices.com/index.php/Playlist_Generator_plugin</link>
                 </plugin>
-		<plugin name="CustomClockHelper" version="2.10.92" minTarget="7.4.0" maxTarget="7.*">
+		<plugin name="CustomClockHelper" version="2.11.94" minTarget="7.4.0" maxTarget="7.*">
                         <title lang="EN">Custom Clock Helper</title>
                         <desc lang="EN">This is a helper plugin for the Custom Clock screen saver applet, it makes it possible to create your own clock styles and modify the existing styles (Controller, Radio, Touch, SqueezePlay)</desc>
-			<changes lang="EN">- Added support for jivelite styles by tcutting, thanks for patch
+			<changes lang="EN">- Available for free, no longer requires a license
 			</changes>
                         <creator>Erland Isaksson</creator>
                         <email>erland@isaksson.info</email>
-                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customclockhelper&amp;filename=CustomClockHelper-2.10.92.zip</url>
-                        <sha>60dc9c3be71a5b521c77ce70020c1092d2a2361b</sha>
+                        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-customclockhelper&amp;filename=CustomClockHelper-2.11.94.zip</url>
+                        <sha>3f0d6ea666b5d37e85899411ea65784f94b0021c</sha>
                         <link>http://wiki.slimdevices.com/index.php/Custom_Clock_applet</link>
                 </plugin>
 		<plugin name="SongInfo" version="1.1.3883" minTarget="7.4.0" maxTarget="*">
